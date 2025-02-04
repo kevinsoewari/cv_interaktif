@@ -62,7 +62,7 @@ def main():
             "link": "https://shorturl.at/BDqG8"
         },
         "Multi-kelas Klasifikasi dengan Ulasan Starbucks": {
-            "desc": "Menggunakan R, mengumpulkan data dari situs resmi Liga Basket Indonesia (IBL) untuk mengumpulkan data terkait statistik pemain, hasil pertandingan, dan kinerja tim. Setelah data berhasil diekstraksi, saya membersihkan dan menganalisis data untuk mengidentifikasi pola kinerja, tren kemenangan pada 3 tim teratas dalam klasemen serta kontribusi pemain kunci di setiap pertandingan. Hasil analisis ini kemudian divisualisasikan menggunakan berbagai teknik grafik interaktif untuk memberikan wawasan yang lebih dalam terkait dinamika kompetisi IBL.",
+            "desc": "Dalam proyek ini, saya mengembangkan model klasifikasi multi-kelas untuk menganalisis ulasan pelanggan Starbucks. Dengan menggunakan pendekatan pembelajaran mesin, saya melakukan eksplorasi data, pembersihan teks, dan teknik rekayasa fitur untuk mengekstrak informasi penting dari ulasan. Model ini dikembangkan dengan algoritma pohon klasifikasi seperti Pohon Ekstra untuk membedakan antara berbagai kategori sentimen atau topik ulasan. Evaluasi model dilakukan dengan menggunakan metrik akurasi, presisi, recall, dan skor F1 untuk memastikan kinerja yang optimal.",
             "link": "https://shorturl.at/TFvhj"
         }
     }
